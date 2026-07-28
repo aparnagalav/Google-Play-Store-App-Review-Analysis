@@ -117,7 +117,7 @@ The analysis includes:
 - Release regular updates to maintain user satisfaction and retention.
 - Use data-driven insights to improve marketing and product strategies.
 
-  ## Conclusion
+## Conclusion
 
 This project explored the Google Play Store Apps and User Reviews datasets using Exploratory Data Analysis (EDA). The analysis revealed valuable insights into app categories, ratings, installs, pricing strategies, user engagement, and customer sentiment. These findings can help developers and businesses make informed decisions to improve app performance, enhance user experience, and develop effective growth strategies.
 
