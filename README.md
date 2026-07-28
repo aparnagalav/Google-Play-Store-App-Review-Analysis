@@ -108,7 +108,7 @@ The analysis includes:
 - Social and Communication apps receive the highest average number of reviews.
 - User sentiment is predominantly positive, indicating overall customer satisfaction.
 
-  ## Business Recommendations
+## Business Recommendations
 
 - Focus on delivering a high-quality user experience to improve ratings and engagement.
 - Encourage users to leave reviews through regular feedback prompts.
